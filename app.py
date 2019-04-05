@@ -15,6 +15,7 @@ def index():
             </head>
             <body>
               <h1 align="center">My app is here</h1>
+			  <p align="center"><a href="/dash/">Please click here for the table</a></p>
               <p align="center"><iframe src="/dash/" width=700 height=600 /></p>
             </body>
             </html>
